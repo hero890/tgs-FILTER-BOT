@@ -21,7 +21,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete Added
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/+6LwHBLWZc3IyMTU1'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ## Commands
 ```
@@ -67,6 +67,8 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 • /plan - 𝐶ℎ𝑒𝑐𝑘 𝑝𝑙𝑎𝑛 𝑑𝑒𝑡𝑎𝑖𝑙𝑠
 • /myplan - 𝐶ℎ𝑒𝑐𝑘 𝑦𝑜𝑢𝑟 𝑝𝑙𝑎𝑛 𝑠𝑡𝑎𝑡𝑠
 ```
+## VIDEO FOR HELP
+*<b>`YOUTUBE` : https://www.youtube.com/channel/UC8FSntqgkWcRjCSwmGEVx6w.</b>
 
 ## Variables
 
@@ -150,15 +152,15 @@ python3 bot.py
 
 ## Thanks to 
  - <b>Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ)
+ - Thanks To [Tech VJ](https://youtube.com/@Tech1HEro)
  - Thanks To [Eva Marie](https://t.me/TeamEvamaria)
  - Thanks To All Everyone In This Journey</b>
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/VJ_Bots)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/hero_botss)
 
-<b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
+<b>[Note To A So Called Dev](https://telegram.dog/hero_botss): 
 
 Fork the repo and edit as per your needs.</b>
 
