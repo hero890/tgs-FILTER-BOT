@@ -270,7 +270,9 @@ async def delallconfirm(client, message):
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton(text="YES",callback_data="delallconfirm")],
                 [InlineKeyboardButton(text="CANCEL",callback_data="delallcancel")]
-            ]),
+            [
+               InlineKeyboardButton(" #Ads Free Movie's channel", url=f"https://t.me/aapna_Movies")
+            ],]),
             quote=True
         )
 
