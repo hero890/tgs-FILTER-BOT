@@ -68,8 +68,7 @@ Join My <a href='https://telegram.dog/+6LwHBLWZc3IyMTU1'>Update Channel</a> For 
 • /myplan - 𝐶ℎ𝑒𝑐𝑘 𝑦𝑜𝑢𝑟 𝑝𝑙𝑎𝑛 𝑠𝑡𝑎𝑡𝑠
 ```
 ## VIDEO FOR HELP
-* [![contack in youtube](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://www.youtube.com/channel/UC8FSntqgkWcRjCSwmGEVx6w)
-*<b>`YOUTUBE` : https://www.youtube.com/channel/UC8FSntqgkWcRjCSwmGEVx6w.</b>
+*<b>`YOUTUBE` : aap video dekh ker hi bot banye !! [bot](https://www.youtube.com/channel/UC8FSntqgkWcRjCSwmGEVx6w), sab se acchi baat </b>
 
 ## Variables
 
