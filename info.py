@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @hero_botss
+# Subscribe YouTube Channel For Amazing Bot @Tech1HEro
+# Ask Doubt on telegram @hero_botss 
 
 
 import re
@@ -26,9 +26,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7002931685:AAFGLi1wKQ8ofG9-ihqkWwYPJWc5sYM
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/ebad2eb29a3d2702e1531.jpg https://telegra.ph/file/5250452a1ab5364cfc4dc.jpg https://telegra.ph/file/68a707b00e8e88ed3c4a4.jpg https://telegra.ph/file/f44b3f7381cbf2e7708bb.jpg https://telegra.ph/file/4aaa6122c1fe3b71cf52c.jpg https://telegra.ph/file/486a9c2e80ed1729a345f.jpg https://telegra.ph/file/b165f958d038b903d43e1.jpg https://telegra.ph/file/989a744a60c061838444f.jpg https://telegra.ph/file/ff8f67820985179067982.jpg https://telegra.ph/file/3d8c714a3b0c04bfdec7e.jpg https://telegra.ph/file/fd0e1a19b0268c005edf8.jpg https://telegra.ph/file/8cfe0b5ceaa7b969448c4.jpg https://telegra.ph/file/5965fb86394de52b45e31.jpg https://telegra.ph/file/b826e4fabf1bf0fa72db3.jpg https://telegra.ph/file/baba127a57d74bc19e956.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+PICS = (environ.get('PICS', 'https://graph.org/file/f5a26ac21b060d5787ea3.jpg https://graph.org/file/30539d8f1fc92423d6a19.jpg https://graph.org/file/2f4f9cc272bcfa37081af.jpg https://graph.org/file/7f4a9dba475bb0e832ef9.jpg https://graph.org/file/1cd7d4a6e8d57e9a3430f.jpg https://graph.org/file/1cd7d4a6e8d57e9a3430f.jpg https://graph.org/file/701ff72fb43d85e073f03.jpg https://graph.org/file/7a0a2c69b1301403d668e.jpg https://graph.org/file/758ac2c9e68cb0ab7d47f.jpg https://graph.org/file/5eff64632fe13c864542f.jpg https://graph.org/file/3bb39efa727ef01ba8a03.jpg https://graph.org/file/eb9149124b53326e32556.jpg https://graph.org/file/36b3377a46ef7f726fc73.jpg https://graph.org/file/c8e8c801022059acfc1c4.jpg https://graph.org/file/4010adb12e8e6df02160b.jpg')).split() #SAMPLE PIC
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/640ac8c7fb801dd5dba3b.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/+ccx-5xVHyro3ZjNl")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -55,8 +55,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Premium And Referal Settings
 REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '20')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1month')
-PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/55749b0d3eaee3a5b958b.jpg')
-PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 30ʀs - 1 ᴡᴇᴇᴋ\n- 50ʀs - 1 ᴍᴏɴᴛʜs\n- 120ʀs - 3 ᴍᴏɴᴛʜs\n- 220ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>jivshn@okaxis</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/3095bdfb65bbace8c06f2.jpg')
+PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 15ʀs - 1 ᴡᴇᴇᴋ\n- 50ʀs - 1 ᴍᴏɴᴛʜs\n- 120cal0ʀs - 3 ᴍᴏɴᴛʜs\n- 220ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>8287194447668@paytm</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'hero_botss') # owner username without @
 
 # Others
@@ -69,13 +69,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/vj_bot_disscussion')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/vj_bots')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+ccx-5xVHyro3ZjNl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+6LwHBLWZc3IyMTU1')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+ccx-5xVHyro3ZjNl')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002022119783'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'vj_bot_disscussion')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+ccx-5xVHyro3ZjNl')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -98,9 +98,9 @@ LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin
 SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "season 6" , "season 7" , "season 8" , "season 9" , "season 10"]
 
 
-                           # Don't Remove Credit @VJ_Botz
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @KingVJ01
+                           # Don't Remove Credit @hero_botss
+                           # Subscribe YouTube Channel For Amazing Bot @Tech1HEro
+                           # Ask Doubt on telegram @hero_botss
 
 
 # Online Stream and Download
@@ -146,6 +146,6 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @hero_botss
+# Subscribe YouTube Channel For Amazing Bot @Tech1HEro
+# Ask Doubt on telegram @hero_botss
