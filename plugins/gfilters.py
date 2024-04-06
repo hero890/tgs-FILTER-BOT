@@ -138,7 +138,10 @@ async def delallgfilters(client, message):
             f"Do you want to continue??",
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton(text="YES",callback_data="gfiltersdeleteallconfirm")],
-                [InlineKeyboardButton(text="CANCEL",callback_data="gfiltersdeleteallcancel")]
+                [InlineKeyboardButton(text="CANCEL",callback_data="gfiltersdeleteallcancel")],
+               [
+                  InlineKeyboardButton(" #Ads Free Movie's channel", url=f"https://t.me/aapna_Movies") 
+                ]
             ]),
             quote=True
         )
