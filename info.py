@@ -1,6 +1,6 @@
 # Don't Remove Credit @hero_botss
 # Subscribe YouTube Channel For Amazing Bot @Tech1HEro
-# Ask Doubt on telegram @hero_botss 
+# Ask Doubt_on telegram @hero_botss 
 
 
 import re
@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '22672907'))
 API_HASH = environ.get('API_HASH', '0ff15ae2153bd8e03b48cb293010bc6a')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7002931685:AAFGLi1wKQ8ofG9-ihqkWwYPJWc5sYMufLA")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6820397492:AAFXpYGvezwViBfM7i3SI3N6Wl7C-E-kMKo")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -113,8 +113,8 @@ else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
-URL = "https://tgs-filter-bot.onrender.com".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://tgs-filter-bot.onrender.com/".format(FQDN, PORT)
+URL = "https://tgs-filter-bot-1.onrender.com".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "https://tgs-filter-bot-1.onrender.com/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
@@ -129,9 +129,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://tgs-filter-bot.onrender.com/".format(FQDN)
+    URL = "https://tgs-filter-bot-1.onrender.com/".format(FQDN)
 else:
-    URL = "https://tgs-filter-bot.onrender.com/".format(FQDN)
+    URL = "https://tgs-filter-bot-1.onrender.com/".format(FQDN)
 
 
 
